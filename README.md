@@ -1,7 +1,7 @@
 # Bitaxe-Wireless-Display
 A Larger Cheap Yellow Display - Display Stats for Your Bitaxe Wirelessly
 
-Choose your way below...
+Choose your way below...Download the File Named Bitaxe_Wireless_Display_bin.zip
 
 ⚡ esptool-js User Guide: Flash Your ESP32 in Your Browser! ⚡
 Hey there, fellow maker! 👋 Looking for a super convenient way to flash your ESP32 without installing any desktop software? esptool-js is your answer! This guide will walk you through flashing your .bin files directly from your web browser. Get ready for some browser-based magic! ✨
